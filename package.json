@@ -13,7 +13,6 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/indevcommunity/indev#readme",
   "devDependencies": {
     "css-loader": "^3.1.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
